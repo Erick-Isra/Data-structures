@@ -2,6 +2,7 @@
 Data structures 
 </div>
 This are all the topics covered in data structures class:
+
 > - Sorting algorithms
 > - Arrays
 > - Linked list
