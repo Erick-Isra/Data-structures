@@ -1,7 +1,7 @@
 <div align="center">
 Data structures 
 </div>
-This are all the topics covered in data structures class:
+This are all the topics covered in data structures class
 
 > - Sorting algorithms
 > - Arrays
