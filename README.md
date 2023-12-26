@@ -1,5 +1,5 @@
 <div align="center">
-Data structures 
+  Data structures 
 
 </div>
 This are al the topics of my data structures class
