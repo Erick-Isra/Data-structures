@@ -1,5 +1,5 @@
 <div align="center">
 
 # Data structures 
-###  <em> Sections </em
+## <em> Sections </em
 </div>
