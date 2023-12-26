@@ -1,7 +1,6 @@
 <div align="center">
 Data structures 
 </div>
-In this reposoti 
 Sections:
 
 > - Sorting algorithms
