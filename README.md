@@ -1,8 +1,7 @@
 <div align="center">
 Data structures 
 </div>
-Sections:
-
+This are all the topics covered in data structures class:
 > - Sorting algorithms
 > - Arrays
 > - Linked list
@@ -10,7 +9,7 @@ Sections:
 > - Queue
 > - Hashing
 > - Graphs
-> - 
+
 Compilation:
 1. Go to the location where you have the file
 2.  Run the command:
