@@ -1,7 +1,6 @@
 <div align="center">
+Data structures 
 
-# Data structures 
-## <em> Sections </em
 </div>
 This are al the topics of my data structures class
 
