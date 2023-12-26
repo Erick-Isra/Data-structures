@@ -11,6 +11,7 @@ This are al the topics of my data structures class
 > - Queue
 > - Hashing
 > - Graphs
+> - Trees
 
 Compilation:
 1. Go to the location where you have the file
