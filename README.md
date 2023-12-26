@@ -14,7 +14,7 @@ This are al the topics of my data structures class
 
 Compilation:
 1. Go to the location where you have the file
-2.  Run de command:
+2.  Run the command:
 ```
 javac *.java
 ```
